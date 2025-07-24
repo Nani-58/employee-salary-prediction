@@ -2,8 +2,6 @@
 
 Hello! My application named "Salary Prediction".
 
-## À propos de ce projet
-C'est une application Web Machine Learning en Python avec Streamlit. j'ai utilisé des données du monde réel pour créer un modèle d'apprentissage automatique. Analyser les données et construiser notre modèle, et par la suite j'ai construit l'application Web à l'aide de streamlit.
 
 ## Installation
 
