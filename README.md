@@ -2,15 +2,6 @@
 
 Hello! My application named "Salary Prediction".
 
-
-## Installation
-
-Pour que le projet soit opérationnel sur votre ordinateur local, procédez comme suit :
-
-1. cloner avec l'url donnée en utilisant commande => git clone https://github.com/benjdiasaad/WebApp-ML-salaryprediction
-2. Exécutez **pip install streamlit**, pour installer streamlit
-3. Exécutez la commande **streamlit run app.py** dans votre invite de commande pour démarrer l'application
-
 ## Technologies utilisées
 
 * Python.
